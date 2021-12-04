@@ -1,0 +1,5 @@
+This application is to be used by Lura Health and flashed onto the pH Sensor System (PHSS). This firmware can alternate between demo and client BLE protocols, continual connection with rapid data sampling and X minute intervals between data samples (respectively). Protocols can be switched using commands sent over BLE.  
+
+This application was built upon the UART Example. To build and run, place all files into SDK_ROOT/examples/ble_peripheral/_folder_name_, where _folder_name_ is the folder containing all files within this repository. 
+
+This application is stable when used wtih nRF5_SDK_15.2.0.
