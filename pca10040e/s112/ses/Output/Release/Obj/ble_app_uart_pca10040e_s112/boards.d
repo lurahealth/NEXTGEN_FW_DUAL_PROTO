@@ -1,14 +1,14 @@
 Output/Release/Obj/ble_app_uart_pca10040e_s112/boards.o: \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/boards/boards.c \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/boards/boards.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/boards/boards.c \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/boards/boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdint.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stddef.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/__crossworks.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdbool.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdint.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stddef.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/__crossworks.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdbool.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52810.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -40,7 +40,7 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/boards.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_nvic.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/util/app_error.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdio.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdio.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
@@ -49,4 +49,4 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/boards.o: \
  ../../../../../../components/libraries/util/sdk_resources.h \
  ../../../../../../components/softdevice/s112/headers/nrf_sd_def.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/boards/pca10040.h
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/boards/pca10040.h

@@ -1,20 +1,20 @@
 Output/Release/Obj/ble_app_uart_pca10040e_s112/main.o: \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/examples/ble_peripheral/FRESH_GIT_CLONE_DUAL_PROTO/main.c \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdint.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/string.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/__crossworks.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/time.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/sys/time.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdlib.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/math.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/examples/ble_peripheral/NEXTGEN_FW_DUAL_PROTO/main.c \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdint.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/string.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/__crossworks.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/time.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/sys/time.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdlib.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/math.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/boards/boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stddef.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdbool.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stddef.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdbool.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52810.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -45,7 +45,7 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/main.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_nvic.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/util/app_error.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdio.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdio.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_error_weak.h \

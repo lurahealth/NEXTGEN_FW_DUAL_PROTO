@@ -1,8 +1,8 @@
 Output/Release/Obj/ble_app_uart_pca10040e_s112/peer_manager_handler.o: \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager_handler.c \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager_handler.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager_handler.c \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager_handler.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdint.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdint.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/softdevice/s112/headers/ble_err.h \
@@ -25,11 +25,11 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/peer_manager_handler.o: \
  ../../../../../../modules/nrfx/mdk/nrf52_to_nrf52810.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatts.h \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdbool.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdbool.h \
  ../../../../../../components/libraries/util/sdk_common.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/string.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/__crossworks.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/string.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/__crossworks.h \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
@@ -37,11 +37,11 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/peer_manager_handler.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_util.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stddef.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stddef.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/softdevice/s112/headers/ble_gap.h \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager_types.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager_types.h \
  ../../../../../../components/softdevice/s112/headers/ble_hci.h \
  ../../../../../../components/ble/common/ble_gatt_db.h \
  ../../../../../../components/softdevice/s112/headers/ble_gattc.h \
@@ -51,10 +51,10 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/peer_manager_handler.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_error_soc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_nvic.h \
  ../../../../../../components/libraries/util/app_error.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdio.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_database.h \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager_internal.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_database.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/peer_manager/peer_manager_internal.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/app_error.h \
  ../../../../../../components/ble/common/ble_conn_state.h \
@@ -72,5 +72,5 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/peer_manager_handler.o: \
  ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
  ../../../../../../components/libraries/memobj/nrf_memobj.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdlib.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdlib.h \
  ../../../../../../components/libraries/balloc/nrf_balloc.h

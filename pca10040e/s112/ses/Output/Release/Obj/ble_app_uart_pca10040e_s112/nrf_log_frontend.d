@@ -1,10 +1,10 @@
 Output/Release/Obj/ble_app_uart_pca10040e_s112/nrf_log_frontend.o: \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/libraries/log/src/nrf_log_frontend.c \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/libraries/log/src/nrf_log_frontend.c \
  ../../../../../../components/libraries/util/sdk_common.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdint.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdbool.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/string.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/__crossworks.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdint.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdbool.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/string.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/__crossworks.h \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
@@ -12,7 +12,7 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/nrf_log_frontend.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_util.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stddef.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stddef.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52810.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -35,7 +35,7 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/nrf_log_frontend.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_error_soc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_nvic.h \
  ../../../../../../components/libraries/util/app_error.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdio.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \
@@ -46,12 +46,12 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/nrf_log_frontend.o: \
  ../../../../../../components/libraries/log/nrf_log_instance.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/libraries/log/src/nrf_log_internal.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/libraries/log/src/nrf_log_internal.h \
  ../../../../../../components/libraries/log/nrf_log_ctrl.h \
  ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
  ../../../../../../components/libraries/memobj/nrf_memobj.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdlib.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdlib.h \
  ../../../../../../components/libraries/balloc/nrf_balloc.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
  ../../../../../../components/libraries/log/nrf_log_str_formatter.h \

@@ -1,8 +1,8 @@
 Output/Release/Obj/ble_app_uart_pca10040e_s112/ble_conn_state.o: \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/common/ble_conn_state.c \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/common/ble_conn_state.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdbool.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdint.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/common/ble_conn_state.c \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/components/ble/common/ble_conn_state.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdbool.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdint.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
@@ -29,8 +29,8 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/ble_conn_state.o: \
  ../../../../../../components/softdevice/s112/headers/ble_gap.h \
  ../../../../../../components/libraries/atomic/nrf_atomic.h \
  ../../../../../../components/libraries/util/sdk_common.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/string.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/__crossworks.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/string.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/__crossworks.h \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
@@ -38,12 +38,12 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/ble_conn_state.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_util.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stddef.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stddef.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/atomic_flags/nrf_atflags.h \
  ../../../../../../components/libraries/util/app_error.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdio.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
  ../../../../../../components/softdevice/common/nrf_sdh_ble.h \
  ../../../../../../components/libraries/util/app_util.h \

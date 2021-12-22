@@ -1,10 +1,10 @@
 Output/Release/Obj/ble_app_uart_pca10040e_s112/SEGGER_RTT_printf.o: \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/external/segger_rtt/SEGGER_RTT_printf.c \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/external/segger_rtt/SEGGER_RTT.h \
- /home/noah/programming/firmware/nRF5_SDK_15.2.0_9412b96_STABLE/external/segger_rtt/SEGGER_RTT_Conf.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/external/segger_rtt/SEGGER_RTT_printf.c \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/external/segger_rtt/SEGGER_RTT.h \
+ /Users/noah/Desktop/programming/nRF5_SDK_15.2.0_9412b96_STABLE/external/segger_rtt/SEGGER_RTT_Conf.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/libraries/util/app_util_platform.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdint.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdint.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52810.h \
@@ -25,13 +25,13 @@ Output/Release/Obj/ble_app_uart_pca10040e_s112/SEGGER_RTT_printf.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_nvic.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/util/app_error.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdio.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/__crossworks.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdbool.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdio.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/__crossworks.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdbool.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
  ../config/sdk_config.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdlib.h \
- /usr/share/segger_embedded_studio_for_arm_5.32/include/stdarg.h
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdlib.h \
+ /Applications/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.40c/include/stdarg.h

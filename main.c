@@ -121,18 +121,15 @@
 
 #define APP_BLE_CONN_CFG_TAG            1                                           /**< A tag identifying the SoftDevice BLE configuration. */
 
-#define DEVICE_NAME                     "LH-888888-0300"                           /**< Name of device. Will be included in the advertising data. */
+#define DEVICE_NAME                     "LH-888888-010"                           /**< Name of device. Will be included in the advertising data. */
 #define NUS_SERVICE_UUID_TYPE           BLE_UUID_TYPE_VENDOR_BEGIN                  /**< UUID type for the Nordic UART Service (vendor specific). */
 
 #define APP_BLE_OBSERVER_PRIO           3                                           /**< Application's BLE observer priority. You shouldn't need to modify this value. */
 
 #define APP_ADV_INTERVAL                400                                         /**< The advertising interval (in units of 0.625 ms. This value corresponds to 40 ms). */
 
-/*
- * AKSJHDFAKSJDHASKLDJ
- *   CHANGE THIS BACK to 1000!!!!
- */
-#define APP_ADV_DURATION                100                                        /**< The advertising duration in units of 10 milliseconds. */
+
+#define APP_ADV_DURATION                1000                                        /**< The advertising duration in units of 10 milliseconds. */
 
 #define MIN_CONN_INTERVAL               MSEC_TO_UNITS(40, UNIT_1_25_MS)             /**< Minimum acceptable connection interval, Connection interval uses 1.25 ms units. */
 #define MAX_CONN_INTERVAL               MSEC_TO_UNITS(80, UNIT_1_25_MS)             /**< Maximum acceptable connection interval, Connection interval uses 1.25 ms units. */
@@ -158,7 +155,7 @@
 
 #define SAMPLES_IN_BUFFER               50                                          /**< SAADC buffer > */
 
-#define CLIENT_DATA_INTERVAL            500
+#define CLIENT_DATA_INTERVAL            10000
 #define DEMO_DATA_INTERVAL              1000
 
 
@@ -1333,7 +1330,7 @@ static void ble_evt_handler(ble_evt_t const * p_ble_evt, void * p_context)
             NRF_LOG_INFO("DISCONNECTED\n");
 
             if (SEND_BUFFERED_DATA == true) {
-                SEND_BUFFERED_DATA == false;
+                SEND_BUFFERED_DATA = false;
                 reset_data_buffers();
             }
 
